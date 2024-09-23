@@ -53,7 +53,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/priyammanna13/stock-prediction.git
 
 2. **Install required Python packages**:
    Make sure you have `pip` installed. Then run:
@@ -106,8 +106,8 @@ Results are displayed via:
   
 Sample output:
 ```bash
-Accuracy of train data: 0.75
-Accuracy of test data: 0.68
+Accuracy of train data: 0.8859764089121888
+Accuracy of test data:  0.8546168958742633
 ```
 
 ---
